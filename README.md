@@ -21,6 +21,8 @@
 
 - 📄 Know about my experiences [https://kettasoft.com/resume](https://kettasoft.com/resume)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kettasoft&show_icons=true&theme=radical)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kettasoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kettasoft" height="30" width="40" /></a>
