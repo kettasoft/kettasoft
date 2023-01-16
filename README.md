@@ -1,45 +1,78 @@
-<h1 align="center">Hi 👋, I'm Abdalrhman Emad Saad</h1>
-<h3 align="center">A passionate Backend developer from Egypt</h3>
+## Hi there 👋 ![](https://komarev.com/ghpvc/?username=kettasoft-st&style=flat-square&label=PROFILE+VIEWS&color=blueviolet)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kettasoft&label=Profile%20views&color=0e75b6&style=flat" alt="kettasoft" /> </p>
+### You can reach me out anytime for any question about my courses or anything you'd like to discuss ^^
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kettasoft" alt="kettasoft" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kettasoft" target="blank"><img src="https://img.shields.io/twitter/follow/kettasoft?logo=twitter&style=for-the-badge" alt="kettasoft" /></a> </p>
-
-- 🔭 I’m currently working on [Ondemium](https://kettasoft/projects/ondemium)
-
-- 🌱 I’m currently learning **Laravel, Vue.js**
-
-- 👨‍💻 All of my projects are available at [https://kettasoft.com/projects](https://kettasoft.com/projects)
-
-- 📝 I regularly write articles on [kettasoft.medium.com](kettasoft.medium.com)
-
-- 💬 Ask me about **Laravel, Vue.js, PHP**
-
-- 📫 How to reach me **abdow@kettasoft.com**
-
-- 📄 Know about my experiences [https://kettasoft.com/resume](https://kettasoft.com/resume)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kettasoft&show_icons=true&theme=radical)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/kettasoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kettasoft" height="30" width="40" /></a>
-<a href="https://dev.to/kettasoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kettasoft" height="30" width="40" /></a>
-<a href="https://twitter.com/kettasoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kettasoft" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kettasoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kettasoft" height="30" width="40" /></a>
-<a href="https://fb.com/kettasoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kettasoft" height="30" width="40" /></a>
-<a href="https://instagram.com/kettasoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kettasoft" height="30" width="40" /></a>
-<a href="https://medium.com/@kettasoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kettasoft" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kettasoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kettasoft" height="30" width="40" /></a>
+<p align ="center">
+  <a href ="https://www.linkedin.com/in/kettasoft/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+  <a href ="https://kettasoft.medium.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=Medium&logoColor=white"/>
+  </a>
+  <a href ="https://dev.to/kettasoft" target="_blank">
+  <img src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p  align="center" >
+  <a href="https://github.com/kettasoft">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmedosama-st&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7" /> 
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kettasoft&show_icons=true&locale=en&layout=compact" alt="kettasoft" /></p>
+<!-- <a href="https://github.com/ahmedosama-st">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosama-st" />
+</a> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kettasoft&show_icons=true&locale=en" alt="kettasoft" /></p>
+<a href="https://github.com/ahmedosama-st">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmedosama&langs_count=4&custom_title=My%20week%20stats" /> 
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kettasoft&" alt="kettasoft" /></p>
+<a href="https://github.com/ahmedosama-st">
+  <img align="center"  width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedosama-st" />
+</a>
+
+# Programming Languages
+
+<div>
+    <img src="https://img.shields.io/badge/rust-E43716.svg?&style=for-the-badge&logo=rust&logoColor=white%22"/>
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</div>
+
+# Used Frameworks.
+
+<div>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=Nuxt.js&logoColor=white"/>
+</div>
+
+# Databases
+
+<div>
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+</div>
+
+# Other technologies
+
+<div>
+    <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Functional%20Programming-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
+    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Rxjs-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux"/>
+    <img src="https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=VIM&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-JEST-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"/>
+</div>
