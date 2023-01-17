@@ -11,11 +11,11 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips">
-    <img width="32px" alt="Youtube" title="Youtube" src="https://github.com/kettasoft/kettasoft/blob/main/codepen.svg"/>
+    <img width="32px" alt="Youtube" title="Youtube" src="https://github.com/kettasoft/kettasoft/blob/main/codepen-svgrepo-com.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DenverCoder1">
-    <img width="32px" alt="Twitter" title="Twitter" src="https://github.com/kettasoft/kettasoft/blob/main/twitter.svg"/>
+    <img width="32px" alt="Twitter" title="Twitter" src="https://github.com/kettasoft/kettasoft/blob/main/twitter-svgrepo-com.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Linkedin" title="Dev Pro Tips Discord Server">
