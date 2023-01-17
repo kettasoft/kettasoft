@@ -10,27 +10,27 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img width="32px" alt="Youtube" title="Youtube" src="https://github.com/kettasoft/kettasoft/blob/main/codepen-svgrepo-com.svg"/>
+  <a href="https://codepen.io/kettasoft">
+    <img width="32px" alt="Codepen" title="Youtube" src="https://github.com/kettasoft/kettasoft/blob/main/codepen-svgrepo-com.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1">
+  <a href="https://twitter.com/kettasoft">
     <img width="32px" alt="Twitter" title="Twitter" src="https://github.com/kettasoft/kettasoft/blob/main/twitter-svgrepo-com.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Linkedin" title="Dev Pro Tips Discord Server">
+  <a href="https://linkedin.com/in/kettasoft" alt="Linkedin" title="My linkedin profile">
     <img width="32px" src="https://github.com/kettasoft/kettasoft/blob/main/linkedin-svgrepo-com.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1">
-    <img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://github.com/kettasoft/kettasoft/blob/main/dev-to-svgrepo-com.svg">
+  <a href="https://dev.to/kettasoft">
+    <img width="32px" alt="Dev.to" title="Kettasoft Dev.to" src="https://github.com/kettasoft/kettasoft/blob/main/dev-to-svgrepo-com.svg">
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence">
+  <a href="https://facebook.com/kettasoft">
     <img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/kettasoft/kettasoft/blob/main/facebook-svgrepo-com.svg">
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/">
+  <a href="mailto:kettasoft@gmail.com">
     <img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://github.com/kettasoft/kettasoft/blob/main/email-svgrepo-com.svg"/>
   </a>
 </p>
@@ -127,8 +127,8 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+    <a href="https://github.com/kettasoft">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=kettasoft&theme=dracula&hide_border=true"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
@@ -137,15 +137,18 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kettasoft&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kettasoft&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=kettasoft&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  </a>
 
   <h3>⚡ Recent GitHub Activity</h3>
 
