@@ -57,8 +57,9 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kettasoft&repo=ondemium&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/kettasoft/ondemium">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kettasoft&repo=ondemium&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false" alt="Medical web site API"></a>
+  </p>
 </details>
 
 
@@ -164,8 +165,16 @@
 
 </details>
 
-<details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
+<details open> 
+  <summary><h2>📦 My Favorite packages</h2></summary>
 
-  <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img width="278"
+           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nWidart&repo=laravel-modules&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false"
+           alt="github-readme-streak-stats">
+    </a>
+  </p>
 </details>
