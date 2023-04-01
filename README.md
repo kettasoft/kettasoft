@@ -89,6 +89,9 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript">
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge">
     </a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript">
+      <img alt="GraphQl" src="https://img.shields.io/badge/GraphQl-e535ab.svg?logo=graphql&logoColor=white&style=for-the-badge">
+    </a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
@@ -97,7 +100,7 @@
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=for-the-badge"></a>
       <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.demolab.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white&style=for-the-badge"></a>
       <a href="#"><img alt="Vue Js" src="https://img.shields.io/badge/VueJs-42b983?logo=vue.js&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white&style=for-the-badge"></a>
+      <!--<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white&style=for-the-badge"></a>-->
       <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-f9322b?logo=laravel&logoColor=white&style=for-the-badge"></a>
   </p>
 
@@ -111,7 +114,6 @@
   <h3>💻 Software and Tools</h3>
 
   <p>
-      <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge"></a>
       <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20Desktop-121c25.svg?logo=github&logoColor=white&style=for-the-badge"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"></a>
