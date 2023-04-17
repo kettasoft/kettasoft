@@ -37,11 +37,7 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+<p align="center"> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/DenverCoder1?tab=followers">
@@ -176,6 +172,14 @@
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img width="278"
            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nWidart&repo=laravel-modules&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false"
+           alt="github-readme-streak-stats">
+    </a>
+  </p>
+
+  <p align="left">
+    <a href="https://github.com/nuwave/lighthouse">
+      <img width="278"
+           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nuwave&repo=lighthouse&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false"
            alt="github-readme-streak-stats">
     </a>
   </p>
