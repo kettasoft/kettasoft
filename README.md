@@ -183,4 +183,28 @@
            alt="github-readme-streak-stats">
     </a>
   </p>
+  
+  <p align="left">
+    <a href="https://github.com/diglactic/laravel-breadcrumbs">
+      <img width="278"
+           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=diglactic&repo=laravel-breadcrumbs&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false"
+           alt="github-readme-streak-stats">
+    </a>
+  </p>
+  
+  <p align="left">
+    <a href="https://github.com/diglactic/jenssegers/agent">
+      <img width="278"
+           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jenssegers&repo=agent&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false"
+           alt="github-readme-streak-stats">
+    </a>
+  </p>
+  
+  <p align="left">
+    <a href="https://github.com/diglactic/laravel/scout">
+      <img width="278"
+           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=laravel&repo=scout&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false"
+           alt="github-readme-streak-stats">
+    </a>
+  </p>
 </details>
