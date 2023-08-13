@@ -53,8 +53,8 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/kettasoft/ondemium">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kettasoft&repo=ondemium&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false" alt="Medical web site API"></a>
+    <a href="https://github.com/kettasoft/ondemium"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kettasoft&repo=gatekeeper&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false" alt="Gatekeeper package"></a>
+    <a href="https://github.com/kettasoft/gatekeeper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kettasoft&repo=ondemium&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false" alt="Medical web site API"></a>
   </p>
 </details>
 
@@ -169,42 +169,11 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img width="278"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nWidart&repo=laravel-modules&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false"
-           alt="github-readme-streak-stats">
-    </a>
+    <a href="https://github.com/nWidart/laravel-modules"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nWidart&repo=laravel-modules&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/diglactic/laravel-breadcrumbs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=diglactic&repo=laravel-breadcrumbs&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/laravel/scout"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=laravel&repo=scout&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/santigarcor/laratrust"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=santigarcor&repo=laratrust&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
   </p>
-
-  <p align="left">
-    <a href="https://github.com/nuwave/lighthouse">
-      <img width="278"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nuwave&repo=lighthouse&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false"
-           alt="github-readme-streak-stats">
-    </a>
-  </p>
-  
-  <p align="left">
-    <a href="https://github.com/diglactic/laravel-breadcrumbs">
-      <img width="278"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=diglactic&repo=laravel-breadcrumbs&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false"
-           alt="github-readme-streak-stats">
-    </a>
-  </p>
-  
-  <p align="left">
-    <a href="https://github.com/diglactic/jenssegers/agent">
-      <img width="278"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jenssegers&repo=agent&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false"
-           alt="github-readme-streak-stats">
-    </a>
-  </p>
-  
-  <p align="left">
-    <a href="https://github.com/diglactic/laravel/scout">
-      <img width="278"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=laravel&repo=scout&theme=react&bg_color=282a36&title_color=bd93f9&hide_border=true&icon_color=F8D866&show_icons=false"
-           alt="github-readme-streak-stats">
     </a>
   </p>
 </details>
