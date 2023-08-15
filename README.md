@@ -165,7 +165,6 @@
 
 <details open> 
   <summary><h2>📦 My Favorite packages</h2></summary>
-
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
