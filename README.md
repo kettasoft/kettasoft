@@ -4,6 +4,18 @@
   </a>
 </p>
 
+<p>I'm a passionate and growth-oriented Software Engineer with a strong focus on backend architecture, scalable systems, and clean, maintainable code. I bring years of hands-on experience building complex, business-critical applications using modern technologies, frameworks, and development methodologies.
+
+My expertise lies in developing high-performance APIs, designing modular and extensible systems, and solving real-world problems through thoughtful software engineering. I’m deeply familiar with RESTful design, database optimization, caching strategies, and asynchronous job processing. I also value strong code quality and test coverage, and I strive to implement best practices like SOLID principles, Domain-Driven Design, and CI/CD automation in every project.
+
+I thrive in collaborative environments where knowledge sharing, continuous learning, and clean communication are part of the culture. Whether mentoring junior developers, working cross-functionally with frontend and DevOps teams, or leading the architectural direction of a system — I bring clarity, responsibility, and technical depth.
+
+Outside of day-to-day coding, I'm constantly exploring architectural patterns like microservices, event-driven systems, distributed messaging, and containerized deployment. I'm also keen on developer productivity, developer experience (DX), and automation across the entire SDLC.
+
+🚀 I'm excited about building reliable, impactful, and future-proof systems — and I’m always open to challenging opportunities that push me to grow further as a software engineer and as a leader.
+
+Key Skills & Interests: PHP, Laravel, REST APIs, SQL/NoSQL Databases, Redis, Docker, CI/CD, Event-Driven Architecture, Microservices, Software Architecture, Clean Code, DevOps Culture, Backend Scalability, Software Craftsmanship</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=bd93f9&center=true&width=435&lines=%2B4+Years+of+coding+experience;Always+learning+new+things;Backend+developer+using+laravel" alt="Typing SVG" /></a>
 </p>
